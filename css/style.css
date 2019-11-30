@@ -1,0 +1,265 @@
+body {
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+.headerSection {
+    width: 100%;
+    height: 150px;
+}
+
+.headerSection1 {
+    width: 100%;
+    height: 25px;
+    margin: 0;
+}
+
+.headerSection1Inside {
+    float: right;
+    font-size: 12px;
+}
+
+.hsiContentImage {
+    margin-top: 6px;
+    display: inline-block;
+}
+
+.hsiContent1, .hsiContent2, .hsiContent3, .hsiImage1 {
+    display: inline-block;
+    margin-left: 6px;
+    color: #9d9d9d;
+}
+
+.fa-android, .fa-apple, .fa-windows {
+    font-size: 14px;
+    margin-right: 6px;
+}
+
+.fa-windows {
+    margin-right: 22px;
+}
+
+.headerSection2 {
+    height: 57px;
+    width: 100%;
+    margin-top: -16px;
+}
+
+.logo {
+    float: left;
+    width: 175px;
+    height: 28px;
+}
+
+.logoImage {
+    height: 28px;
+    width: 151px;
+    padding-top: 10px;
+    padding-left: 21px;
+    float: left;
+}
+
+.search {
+    height: 57px;
+    width: 737px;
+    margin-left: 62px;
+    float: left;
+}
+
+.searchInside {
+    height: 32px;
+    width: 560px;
+    margin-top: 9px;
+    margin-left: 8px;
+    padding-left: 32px;
+}
+
+.fa-search {
+    position: absolute;
+    margin-top: 18px;
+    margin-left: 16px;
+    color: #9d9d9d;
+}
+
+.searchButton {
+    height: 38px;
+    width: 113px;
+    margin: -5px;
+    border: none;
+    background: #ff6061;
+    border-radius: 2px;
+    color: white;
+    font-size: 14px;
+}
+
+.hsRight1, .hsRight2, .hsRight3, .hsRight4, .hsRight5, .hsRight6  {
+    text-decoration: none;
+    float: left;
+    list-style-type: none;
+    font-size: 12px;
+    color: #49b3c1;
+}
+
+.hsRight1 {
+    margin-top: 5px;
+    margin-left: 44px;
+    font-size: 14px;
+}
+
+.hsRight1 span {
+    color: #49b3c1;
+}
+
+.fa-map-marker {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-left: 6px;
+}
+
+.fa-bell-o {
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 28px;
+}
+
+.fa-heart-o {
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 28px;
+}
+
+.fa-shopping-cart {
+    font-size: 28px;
+    margin-top: 5px;
+    margin-left: 28px;
+}
+
+.hsRight6 {
+    margin-left: 24px;
+    margin-top: 11px;
+    color: black;
+    font-size: 14px;
+}
+
+.headerSection3 {
+    height: 36px;
+    width: 100%;
+    margin-top: -16px;
+    background: #24a3b5;
+}
+
+.headerSection3Inside {
+    height: 36px;
+    width: 65%;
+    margin-left: 238px;
+}
+
+.hsiMenu1, .hsiMenu2, .hsiMenu3, .hsiMenu4, .hsiMenu5, .hsiMenu6, .hsiMenu7, .hsiMenu8 {
+    list-style-type: none;
+    float: left;
+    color: white;
+}
+
+.hsiMenu1 {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: -34px;
+}
+
+.hsiMenu2, .hsiMenu3, .hsiMenu4, .hsiMenu5, .hsiMenu6, .hsiMenu7, .hsiMenu8 {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.headerSection4 {
+    height: 32px;
+    width: 100%;
+    margin-top: -16px;
+}
+
+.headerSection4Inside {
+    height: 32px;
+    width: 70%;
+    margin-left: 238px;
+}
+
+.hsi4Menu1, .hsi4Menu2, .hsi4Menu3, .hsi4Menu4, .hsi4Menu5, .hsi4Menu6, .hsi4Menu7, .hsi4Menu8 {
+    list-style-type: none;
+    float: left;
+    color:#959595;
+}
+
+.hsi4Menu1 {
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: -48px;
+}
+
+.hsi4Menu2, .hsi4Menu3, .hsi4Menu4, .hsi4Menu5, .hsi4Menu6, .hsi4Menu7, .hsi4Menu8 {
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 35px;
+}
+
+.contentSection {
+    width: 100%;
+    height: 420px;
+    margin: 0;
+    padding: 0;
+}
+
+.contenSectionLeft {
+    height: 400px;
+    width: 78%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+.cslImage {
+    height: 300px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.contentSectionRight {
+    float: right;
+    height: 400px;
+    width: 240px;
+    margin-right: 20px;
+}
+
+.csr1 {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: -40px;
+    margin-top: 4px;
+}
+
+.csr2, .csr3 {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: -40px;
+    margin-top: -4px;
+}
+
+.csrImage1, .csrImage2, .csrImage3 {
+    height: 126px;
+    width: 100%;
+}
+
+.cslMenu {
+    display: inline-block;
+}
+
+.cslMenu1, .cslMenu2, .cslMenu3, .cslMenu4, .cslMenu5 {
+    list-style-type: none;
+    float: left;
+    margin-left: 16px;
+}
+
+.cslMenu2, .cslMenu3, .cslMenu4, .cslMenu5 {
+    margin-left: 150px;
+}
